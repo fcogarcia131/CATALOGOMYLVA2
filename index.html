@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<title>CATALOGO MYLVA</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>CATALOGO MYLVA</h1>
+
+<div class="contenedor">
+
+<label>Especie de plaga</label>
+<input id="species" placeholder="Ej: Blattella germanica">
+
+<label>Entorno de uso</label>
+<select id="environment">
+
+<option value="industria alimentaria">Industria alimentaria</option>
+<option value="vegetacion / exteriores">Vegetación / exteriores</option>
+<option value="alcantarillado">Alcantarillado</option>
+<option value="viviendas">Viviendas</option>
+<option value="otros edificios interior">Otros edificios interior</option>
+
+</select>
+
+<label>Extensión a tratar (m²)</label>
+<input id="area" type="number">
+
+<button onclick="buscarProducto()">Calcular tratamiento</button>
+
+<div id="resultado"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

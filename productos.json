@@ -1,0 +1,378 @@
+[
+  {
+    "producto": "Magnum Gel Cucarachas IGR Plus",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2021-18-00746",
+    "dosis": "0,12–0,16 g/m² (3-4 gotas/m²) B. germanica / 0,16–0,24 g/m² (4-6 gotas/m²) P. americana / B. orientalis",
+    "forma_uso": "Aplicación puntual en puntos de cebo en zonas de tránsito",
+    "precio": "21,89 €/ud"
+  },
+  {
+    "producto": "Magnum Gel Cucarachas",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2021-18-00449",
+    "dosis": "0,12–0,16 g/m² / 0,16–0,24 g/m²",
+    "forma_uso": "Aplicación en puntos de cebo en grietas y refugios",
+    "precio": "13,29 €/ud"
+  },
+  {
+    "producto": "Magnum Gel Compact",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2017-18-00449",
+    "dosis": "0,12–0,16 g/m² / 0,16–0,24 g/m²",
+    "forma_uso": "Aplicación puntual en zonas de tránsito",
+    "precio": "7,21 €/ud"
+  },
+  {
+    "producto": "Magnum Gel Optimum",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2017-18-00469",
+    "dosis": "0,12–0,16 g/m² / 0,16–0,24 g/m²",
+    "forma_uso": "Aplicación en puntos de cebo",
+    "precio": "19,57 €/ud"
+  },
+  {
+    "producto": "Trampa Magnum Gel Cucarachas",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2021-18-00449",
+    "dosis": "2-4 trampas por estancia",
+    "forma_uso": "Colocar estaciones en zonas de tránsito",
+    "precio": "87,55 €/caja"
+  },
+  {
+    "producto": "Magnum Gel Hormigas IGR Plus",
+    "organismo_diana": "Lasius spp., Monomorium spp., Linepithema humile",
+    "registro": "ES/APP(NA)-2021-18-00768",
+    "dosis": "0,2 g/m²",
+    "forma_uso": "Aplicación en rutas de hormigas",
+    "precio": "21,89 €/ud"
+  },
+  {
+    "producto": "Magnum Gel Hormigas",
+    "organismo_diana": "Lasius spp., Monomorium spp., Linepithema humile",
+    "registro": "ES/APP(NA)-2017-18-00448",
+    "dosis": "0,2 g/m²",
+    "forma_uso": "Aplicación en puntos de tránsito",
+    "precio": "17,25 €/ud"
+  },
+  {
+    "producto": "Trampa Magnum Gel Hormigas",
+    "organismo_diana": "Hormigas domésticas",
+    "registro": "ES/APP(NA)-2017-18-00448",
+    "dosis": "1 estación por zona de actividad",
+    "forma_uso": "Colocar estaciones en rutas de hormigas",
+    "precio": "175,10 €/caja"
+  },
+  {
+    "producto": "Ecorex Disk One",
+    "organismo_diana": "Periplaneta americana, Blatta orientalis",
+    "registro": "20-30-10415 / 20-30-10415-HA",
+    "dosis": "1-2 discos cada 10-15 m² o por arqueta",
+    "forma_uso": "Colocar en portacebos en arquetas o subsuelos",
+    "precio": "31,52 €/pack"
+  },
+  {
+    "producto": "Ecorex Gel One",
+    "organismo_diana": "Periplaneta americana, Blatta orientalis",
+    "registro": "20-30-10315 / 20-30-10315-HA",
+    "dosis": "1 cartucho para hasta 50 arquetas",
+    "forma_uso": "Aplicación con pistola en subsuelos y arquetas",
+    "precio": "55,21 €/ud"
+  },
+  {
+    "producto": "Ecorex Ciper RTU",
+    "organismo_diana": "Insectos voladores y rastreros",
+    "registro": "23-30-11990",
+    "dosis": "Pulverización localizada",
+    "forma_uso": "Aplicación directa en zócalos y suelos",
+    "precio": "5,67 €/ud"
+  },
+  {
+    "producto": "Ecorex Contact Gel",
+    "organismo_diana": "Cucarachas, hormigas, chinches",
+    "registro": "20-30-10414 / 20-30-10414-HA",
+    "dosis": "25-35 ml por metro lineal",
+    "forma_uso": "Aplicación en cordón o banda",
+    "precio": "7,93 €/ud"
+  },
+  {
+    "producto": "Advion Gel Cucarachas",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/RM-2011-18-00003",
+    "dosis": "0,04-0,16 g/m²",
+    "forma_uso": "Aplicación en puntos de cebo",
+    "precio": "22,00 €/ud"
+  },
+  {
+    "producto": "Victor Gel",
+    "organismo_diana": "Blattella germanica, Periplaneta americana, Blatta orientalis",
+    "registro": "ES/APP(NA)-2018-18-00546",
+    "dosis": "0,04-0,16 g/m²",
+    "forma_uso": "Aplicación puntual en refugios",
+    "precio": "25,75 €/ud"
+  },
+  {
+    "producto": "Advion Gel Hormigas",
+    "organismo_diana": "Lasius niger, Monomorium pharaonis, Linepithema humile, Tapinoma melanocephalum",
+    "registro": "ES/RM-2012-18-00060",
+    "dosis": "hasta 0,5 g/m²",
+    "forma_uso": "Aplicación en rutas de hormigas",
+    "precio": "28,00 €/ud"
+  },
+  {
+    "producto": "Ecorex SC",
+    "organismo_diana": "Insectos rastreros y voladores",
+    "registro": "Registro ambiental",
+    "dosis": "0,5-1 % en agua",
+    "forma_uso": "Pulverización en superficies",
+    "precio": "35,72 €/ud"
+  },
+  {
+    "producto": "Ecorex Alfa SE",
+    "organismo_diana": "Moscas, mosquitos, insectos rastreros",
+    "registro": "16-30-03034 / 16-30-03034-HA",
+    "dosis": "0,2-1 % en agua",
+    "forma_uso": "Pulverización o nebulización",
+    "precio": "31,42 €/ud"
+  },
+  {
+    "producto": "Ecorex Ciper EW",
+    "organismo_diana": "Moscas, mosquitos, cucarachas, chinches",
+    "registro": "20-30-10412 / 20-30-10412-HA",
+    "dosis": "1-2 % en agua",
+    "forma_uso": "Pulverización o nebulización",
+    "precio": "21,89 €/ud"
+  },
+  {
+    "producto": "Ecorex Action Plus",
+    "organismo_diana": "Hormigas, cucarachas, pulgas, garrapatas, moscas, mosquitos",
+    "registro": "20-30-10662 / 20-30-10662-HA",
+    "dosis": "1-2 % en agua",
+    "forma_uso": "Pulverización o nebulización",
+    "precio": "26,01 €/ud"
+  },
+  {
+    "producto": "Mythic SC",
+    "organismo_diana": "Chinches, cucarachas, hormigas",
+    "registro": "19-30-06183 / 19-30-06183-HA",
+    "dosis": "0,8-3,2 % en agua",
+    "forma_uso": "Pulverización residual",
+    "precio": "56,18 €/ud"
+  },
+  {
+    "producto": "Ecorex Aquaflow",
+    "organismo_diana": "Insectos rastreros",
+    "registro": "ES/BB(MR)-2017-18-00444",
+    "dosis": "1 % en agua",
+    "forma_uso": "Pulverización superficial",
+    "precio": "37,80 €/L"
+  },
+  {
+    "producto": "Demand 10CS",
+    "organismo_diana": "Cucarachas, hormigas, pulgas, garrapatas, mosquitos",
+    "registro": "ES/MR(NA)-2023-18-00863",
+    "dosis": "25 ml / 5 L agua",
+    "forma_uso": "Pulverización residual",
+    "precio": "71,92 €/ud"
+  },
+  {
+    "producto": "Gladio líquido EC",
+    "organismo_diana": "Mosquitos, moscas",
+    "registro": "Registro ambiental",
+    "dosis": "0,8-4 % en agua",
+    "forma_uso": "Pulverización o nebulización",
+    "precio": "42,40 €/L"
+  },
+  {
+    "producto": "Aqua K-Othrine",
+    "organismo_diana": "Mosquitos (Culex spp., Aedes spp.)",
+    "registro": "ES/MR(NA)-2018-18-00478",
+    "dosis": "250-500 ml / 1000 m³",
+    "forma_uso": "Nebulización",
+    "precio": "57,03 €/L"
+  },
+  {
+    "producto": "Pyrenat DT",
+    "organismo_diana": "Mosquitos, polillas, hormigas",
+    "registro": "24-30-12380",
+    "dosis": "150 ml / 30-65 m³",
+    "forma_uso": "Aerosol descarga total",
+    "precio": "5,90 €/ud"
+  },
+  {
+    "producto": "Pyrenat Avispas",
+    "organismo_diana": "Avispas",
+    "registro": "25-30-12511",
+    "dosis": "2-5 s pulverización",
+    "forma_uso": "Aerosol directo sobre avisperos",
+    "precio": "7,10 €/ud"
+  },
+  {
+    "producto": "Pyrenat EC",
+    "organismo_diana": "Moscas, mosquitos, cucarachas",
+    "registro": "24-30-12386",
+    "dosis": "Dilución 4 %",
+    "forma_uso": "Pulverización en superficies",
+    "precio": "43,95 €/ud"
+  },
+  {
+    "producto": "Germigran Aerosol",
+    "organismo_diana": "Insectos rastreros y voladores",
+    "registro": "23-30-02307",
+    "dosis": "Aplicación directa",
+    "forma_uso": "Aerosol con cánula",
+    "precio": "6,08 €/ud"
+  },
+  {
+    "producto": "Germiol DT",
+    "organismo_diana": "Insectos voladores",
+    "registro": "18-30-05878",
+    "dosis": "1 aerosol / 30-35 m³",
+    "forma_uso": "Aerosol descarga total",
+    "precio": "6,08 €/ud"
+  },
+  {
+    "producto": "Avispa Clac",
+    "organismo_diana": "Avispas (incluida Vespa velutina)",
+    "registro": "22-30-07064",
+    "dosis": "Aplicación directa",
+    "forma_uso": "Aerosol largo alcance",
+    "precio": "7,31 €/ud"
+  },
+  {
+    "producto": "Insect-Lac HP Plus",
+    "organismo_diana": "Cucarachas, hormigas",
+    "registro": "22-30-07140 / 22-30-07140-HA",
+    "dosis": "Aplicación por banda",
+    "forma_uso": "Laca insecticida residual",
+    "precio": "9,58 €/L"
+  },
+  {
+    "producto": "Pyresmoke",
+    "organismo_diana": "Moscas, mosquitos, cucarachas, pulgas",
+    "registro": "23-30-12067",
+    "dosis": "1 g / 2 m³",
+    "forma_uso": "Fumígeno en locales cerrados",
+    "precio": "17,51 €/ud"
+  },
+  {
+    "producto": "Fumigol +",
+    "organismo_diana": "Insectos rastreros y voladores",
+    "registro": "24-30-12424",
+    "dosis": "1 g / m³",
+    "forma_uso": "Fumígeno insecticida",
+    "precio": "16,48 €/ud"
+  },
+  {
+    "producto": "Talon Soft XT",
+    "organismo_diana": "Rata parda, rata negra, ratón",
+    "registro": "ES/MRF(NA)-2021-14-00756-3-2",
+    "dosis": "50 g por portacebo (ratas) / 8 g (ratones)",
+    "forma_uso": "Colocar en portacebos cada 5-10 m en zonas de tránsito",
+    "precio": "—"
+  },
+  {
+    "producto": "Talon Block",
+    "organismo_diana": "Rata parda, rata negra, ratón",
+    "registro": "ES/MR(NA)-2019-14-00395",
+    "dosis": "1-5 bloques por portacebo",
+    "forma_uso": "Colocar en portacebos cada 5-10 m",
+    "precio": "—"
+  },
+  {
+    "producto": "K.O. Rat Brodifacoum (bloque)",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "ES/MR(NA)-2018-14-00260 / ES/BB(NA)-2018-14-00539",
+    "dosis": "50-200 g por portacebo",
+    "forma_uso": "Colocar en portacebos etiquetados en interior de instalaciones",
+    "precio": "4,94–5,15 €/kg"
+  },
+  {
+    "producto": "K.O. Rat Bromadiolona (bloque)",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "ES/APP(NA)-2018-14-00190",
+    "dosis": "50-200 g por portacebo",
+    "forma_uso": "Colocar en portacebos etiquetados",
+    "precio": "5,51 €/kg"
+  },
+  {
+    "producto": "Rat Pasta Brodifacoum",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "—",
+    "dosis": "50-200 g por portacebo",
+    "forma_uso": "Pasta fresca en portacebos",
+    "precio": "6,16 €/kg"
+  },
+  {
+    "producto": "Serpa Rat Pasta Brodifacoum",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "—",
+    "dosis": "50-200 g por portacebo",
+    "forma_uso": "Pasta fresca en portacebos",
+    "precio": "4,94 €/kg"
+  },
+  {
+    "producto": "Serpa Rat Pasta Bromadiolona Plus",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "—",
+    "dosis": "50-200 g por portacebo",
+    "forma_uso": "Pasta fresca en portacebos",
+    "precio": "4,64 €/kg"
+  },
+  {
+    "producto": "K.O. Rat Gel Brodifacoum",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "ES/MR(NA)-2019-14-00576",
+    "dosis": "50-100 g por portacebo",
+    "forma_uso": "Aplicación en gel dentro de portacebos",
+    "precio": "—"
+  },
+  {
+    "producto": "K.O. Rat Gel Bromadiolona",
+    "organismo_diana": "Ratas y ratones",
+    "registro": "ES/BB(NA)-2018-14-00454",
+    "dosis": "50-100 g por portacebo",
+    "forma_uso": "Aplicación en gel en portacebos",
+    "precio": "—"
+  },
+  {
+    "producto": "OX-AIRE Conductos",
+    "organismo_diana": "Bacterias y hongos en conductos de aire",
+    "registro": "12-20/40-04413 / 04413-HA",
+    "dosis": "12 ml por metro lineal de conducto",
+    "forma_uso": "Desinfección aérea o de conductos de climatización",
+    "precio": "7,00 €/kg"
+  },
+  {
+    "producto": "OX-AGUA 2G",
+    "organismo_diana": "Bacterias y microorganismos en agua potable",
+    "registro": "17-20/40-04130 / 04130-HA",
+    "dosis": "0,5-2 % o 0,1 kg/m³ según tratamiento",
+    "forma_uso": "Tratamiento de agua sanitaria (ACS y AFCH)",
+    "precio": "3,01 €/kg"
+  },
+  {
+    "producto": "Serpol Gel II",
+    "organismo_diana": "Carcomas, termitas, hongos xilófagos",
+    "registro": "ES/APP(NA)-2021-08-00790",
+    "dosis": "200 g/m² (preventivo) / 250 g/m² (curativo)",
+    "forma_uso": "Brocheo, inyección o pulverización en madera",
+    "precio": "7,73 €/L"
+  },
+  {
+    "producto": "Serpol Basic",
+    "organismo_diana": "Insectos xilófagos (carcomas)",
+    "registro": "ES/APP(NA)-2022-08-00791",
+    "dosis": "según tratamiento preventivo o curativo",
+    "forma_uso": "Brocheo, inyección o pulverización",
+    "precio": "6,70 €/L"
+  },
+  {
+    "producto": "Serpol Aqua W",
+    "organismo_diana": "Escarabajos barrenadores, termitas y hongos xilófagos",
+    "registro": "ES/MRF(NA)-2019-08-00630-1",
+    "dosis": "100-300 ml/m² según infestación",
+    "forma_uso": "Aplicación diluida por pincelado o pulverización",
+    "precio": "—"
+  }
+]
